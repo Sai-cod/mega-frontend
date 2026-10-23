@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "expo": "^54.0.0",
+    "expo": "~54.0.37",
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
     "react-icons": "^5.7.0",

@@ -23,7 +23,7 @@ export default function MessageBubble({ role, text }) {
         </Text>
       </View>
     </View>
-  );
+  );      
 }
 
 const styles = StyleSheet.create({
